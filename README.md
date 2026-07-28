@@ -25,5 +25,3 @@ Este projeto é uma aplicação Desktop que permite o controle de mesas, comanda
 2.  Compile os arquivos `.java` na pasta `src`.
 3.  Execute a classe principal `TelaPrincipal`.
 4.  O sistema criará automaticamente a pasta de salvamento (`C:/salvamento` ou similar configurado no código) na primeira execução.
-# sistema-comandas
-# sistema-comandas
